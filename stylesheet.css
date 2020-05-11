@@ -3,6 +3,11 @@ header {
  /* margin: 0; */
 }
 
+ul{
+    text-decoration: none;
+    background-color: khaki;
+}
+
 .container {
     background-color: coral;
 }
