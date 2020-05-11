@@ -1,11 +1,14 @@
 header {
- background-color: blueviolet;
- /* margin: 0; */
+    background-color: blueviolet;
+    /* margin: 0; */
 }
 
-ul{
+ul {
     text-decoration: none;
     background-color: khaki;
+}
+.header-gnav {
+    background-color: lavender;
 }
 
 .container {
