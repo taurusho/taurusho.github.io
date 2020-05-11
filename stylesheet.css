@@ -1,0 +1,19 @@
+header {
+ background-color: blueviolet;
+}
+
+.container {
+    background-color: coral;
+}
+
+.main {
+    background-color: darkgoldenrod;
+}
+
+.side {
+    background-color: darkgreen;
+}
+
+footer {
+    background-color: hotpink;
+}
