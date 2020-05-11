@@ -6,6 +6,7 @@ header {
 ul {
     text-decoration: none;
     background-color: khaki;
+    width: 50%;
 }
 .header-gnav {
     background-color: lavender;
