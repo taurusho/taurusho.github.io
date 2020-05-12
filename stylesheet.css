@@ -9,6 +9,10 @@ ul {
     width: 50%;
     float: left;
 }
+
+li {
+    float: left;
+}
 .header-gnav {
     background-color: lavender;
 }
